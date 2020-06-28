@@ -1,0 +1,33 @@
+#title {
+    display: block;
+    text-align: center;
+  }
+  #img-div {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+  #image {
+    width: 800px;
+    height: 500px;
+  }
+  #img-caption {
+    width: 40%;
+  }
+  #tribute-info {
+    margin: auto;
+    width: 40%;
+    display: block;
+    line-height: 1;
+  }
+  h3 {
+    text-align: center;
+  }
+  p {
+    text-align: center;
+    font-weight: bold;
+  }
+  #b {
+    font-weight: bold;
+  }
+  
